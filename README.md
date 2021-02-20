@@ -4,11 +4,11 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... Something Super Amazing
-- 🌱 I’m currently learning ... Newly Originated language
-- 👯 I’m looking to collaborate on ... Mini mIndsPace
-- 🤔 I’m looking for help with ... Someone who can hifi every littlething
-- 💬 Ask me about ... Which you don't want to ask others
-- 📫 How to reach me: ... Google Map !!!! ---> Md Junaid (mohammedjunaidah@gmail.com)
+- 🔭 I’m currently working on ... Android Development
+- 🌱 I’m currently learning ... Dart !!
+- 👯 I’m looking to collaborate on ... 
+- 🤔 I’m looking for help with ... Android Developers
+- 💬 Ask me about ... 
+- 📫 How to reach me: ...  (mohammedjunaidah@gmail.com)
 - 😄 Pronouns: ... Bonito
 - ⚡ Fun fact: ... Love to analyze people
