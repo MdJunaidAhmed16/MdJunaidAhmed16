@@ -9,6 +9,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ... Mini mIndsPace
 - 🤔 I’m looking for help with ... Someone who can hifi every littlething
 - 💬 Ask me about ... Which you don't want to ask others
-- 📫 How to reach me: ... Google Map !!!! ---> Md Junaid
+- 📫 How to reach me: ... Google Map !!!! ---> Md Junaid (mohammedjunaidah@gmail.com)
 - 😄 Pronouns: ... Bonito
 - ⚡ Fun fact: ... Love to analyze people
