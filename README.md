@@ -4,11 +4,10 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... Android Development
-- 🌱 I’m currently learning ... Dart !!
-- 👯 I’m looking to collaborate on ... 
-- 🤔 I’m looking for help with ... Android Developers
-- 💬 Ask me about ... 
-- 📫 How to reach me: ...  (mohammedjunaidah@gmail.com)
+- 🔭 I’m currently working on ...Instagram Clone
+- 🌱 I’m currently learning ... Flutter Framework !!
+- 👯 I’m looking to collaborate on an android app development
+
+- 📫 How to reach me: ... mohammedjunaidah@gmail.com
 - 😄 Pronouns: ... Bonito
 - ⚡ Fun fact: ... Love to analyze people
